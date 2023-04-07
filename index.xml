@@ -178,7 +178,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-597136428&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-526419783&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -188,7 +188,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-597136428&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-526419783&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -636,9 +636,9 @@ $$&lt;/p&gt;
       <description>&lt;h2 id=&#34;что-я-делала-на-прошлой-неделе&#34;&gt;Что я делала на прошлой неделе?&lt;/h2&gt;
 &lt;p&gt;Честно, я не помню, что делала вчера, а меня тут просят написать про целую неделю. Все что я делаю every day is смотрю на котиков. Сейчас и вам покажу :)&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;1.jpg&#34;&gt;Котик 1&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;2.jpg&#34;&gt;Котик 2&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;3.jpg&#34;&gt;котик 3&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;4.jpg&#34;&gt;Котик 4 и 5&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;2.jpg&#34;&gt;Котик 2 и 3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;3.jpg&#34;&gt;котик 4&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;4.jpg&#34;&gt;Котик 5 &lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;5.jpg&#34;&gt;Котик 6&lt;/a&gt;&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
     </item>
